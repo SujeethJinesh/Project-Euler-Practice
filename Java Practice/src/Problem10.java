@@ -11,7 +11,7 @@ public class Problem10 {
         int counter = 2;
         int temp = 0;
 
-        for(int i = 2; i < sieve.length; i++) { //sieve of eratosthenes 
+        for(int i = 2; i < sieve.length; i++) { //sieve of eratosthenes
             if (!sieve[i]) {
                 sum += i;
                 for (int j = i; j < sieve.length;) {
