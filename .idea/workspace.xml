@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4295f900-c8b4-4c59-9649-8f7fe644ef9e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Java Practice/src/Problem_15.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python Practice/Problem_15.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python Practice/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java Practice/src/Problem_14.class" afterPath="$PROJECT_DIR$/Java Practice/src/Problem_14.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Java Practice/src/Problem_16.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Project-Euler-Practice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/Python Practice/Problem_15.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.18847007">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -252,6 +249,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="4295f900-c8b4-4c59-9649-8f7fe644ef9e" name="Default" comment="" />
@@ -262,8 +262,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="0" width="960" height="1040" extended-state="1" />
-    <editor active="true" />
+    <frame x="960" y="0" width="960" height="1040" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -284,6 +284,14 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -295,7 +303,7 @@
     <entry file="file://$PROJECT_DIR$/Python Practice/Problem_15.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.18847007">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
           <folding />
         </state>
       </provider>
